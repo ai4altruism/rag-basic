@@ -1,10 +1,11 @@
 # Basic RAG Pipeline
 
-A simple Retrieval Augmented Generation (RAG) implementation using OpenAI, ChromaDB, and Streamlit.  This version was developed with the assistance of Claude Sonnet 3.5 on 2024-01-07.
+A simple Retrieval Augmented Generation (RAG) implementation using OpenAI, ChromaDB, and Streamlit. This version was developed with the assistance of Claude Sonnet 3.5 on 2024-01-07.
 
 ## Overview
 
 This project implements a basic RAG pipeline that allows users to:
+
 - Upload text documents to a knowledge base
 - Query the knowledge base using natural language
 - Receive AI-generated responses based on the context of uploaded documents
@@ -25,23 +26,27 @@ This project implements a basic RAG pipeline that allows users to:
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/rag-basic.git
 cd rag-basic
 ```
 
 2. Create and activate a virtual environment:
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 ```
 
 3. Install the required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Create a `.env` file in the project root with your configuration:
+
 ```bash
 OPENAI_API_KEY=your_api_key_here
 LANGUAGE_MODEL=gpt-4-1106-preview
@@ -53,6 +58,7 @@ VECTOR_STORE_PATH=./vectorstore
 ## Usage
 
 1. Start the application:
+
 ```bash
 streamlit run app.py
 ```
@@ -90,6 +96,6 @@ rag-basic/
 
 Feel free to open issues or submit pull requests with improvements.
 
-## License
+## This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 TBD - will decide later
