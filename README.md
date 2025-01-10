@@ -1,6 +1,6 @@
 # Basic RAG Pipeline
 
-A simple Retrieval Augmented Generation (RAG) implementation using OpenAI, ChromaDB, and Streamlit. This version was developed with the assistance of Claude Sonnet 3.5 on 2024-01-07.
+A simple Retrieval Augmented Generation (RAG) implementation using OpenAI, ChromaDB, and Streamlit. This version was developed with the assistance of Claude Sonnet 3.5.
 
 ## Overview
 
