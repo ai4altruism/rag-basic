@@ -4,11 +4,11 @@ A Python application that demonstrates a fundamental pattern in modern LLM appli
 
 This application serves as an educational template and building block, designed to help developers understand:
 
-How to implement efficient document retrieval and embedding systems using vector databases
-How to augment LLM responses with relevant context from local knowledge bases
-Best practices for document processing and embedding generation
-Clean architecture principles in RAG application development
-Practical patterns for production deployment using Streamlit
+- How to implement efficient document retrieval and embedding systems using vector databases
+- How to augment LLM responses with relevant context from local knowledge bases
+- Best practices for document processing and embedding generation
+- Clean architecture principles in RAG application development
+- Practical patterns for production deployment using Streamlit
 
 While focused in scope, this codebase reflects patterns that can be expanded into more sophisticated applications, such as:
 
@@ -20,10 +20,10 @@ While focused in scope, this codebase reflects patterns that can be expanded int
 
 The implementation showcases the integration of several key technologies:
 
-Vector embeddings for semantic document representation
-Efficient similarity search using ChromaDB
-Context-aware response generation with OpenAI's GPT models
-User-friendly interface development with Streamlit
+- Vector embeddings for semantic document representation
+- Efficient similarity search using ChromaDB
+- Context-aware response generation with OpenAI's GPT models
+- User-friendly interface development with Streamlit
 
 This template provides a foundation for developers to understand and build upon core RAG concepts while maintaining clean code organization and production-ready practices.
 
