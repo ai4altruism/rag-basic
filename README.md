@@ -1,6 +1,31 @@
 # Basic RAG Pipeline
 
-A simple Retrieval Augmented Generation (RAG) implementation using OpenAI, ChromaDB, and Streamlit. This version was developed with the assistance of Claude Sonnet 3.5.
+A Python application that demonstrates a fundamental pattern in modern LLM application development: Retrieval Augmented Generation (RAG). This project implements a production-ready RAG pipeline that enhances LLM responses with relevant context from a local document store, producing more accurate and contextually grounded outputs.
+
+This application serves as an educational template and building block, designed to help developers understand:
+
+How to implement efficient document retrieval and embedding systems using vector databases
+How to augment LLM responses with relevant context from local knowledge bases
+Best practices for document processing and embedding generation
+Clean architecture principles in RAG application development
+Practical patterns for production deployment using Streamlit
+
+While focused in scope, this codebase reflects patterns that can be expanded into more sophisticated applications, such as:
+
+Enterprise knowledge base systems
+Document-grounded chatbots and virtual assistants
+Automated document analysis and question-answering systems
+Context-aware content generation platforms
+Custom search engines with semantic understanding
+
+The implementation showcases the integration of several key technologies:
+
+Vector embeddings for semantic document representation
+Efficient similarity search using ChromaDB
+Context-aware response generation with OpenAI's GPT models
+User-friendly interface development with Streamlit
+
+This template provides a foundation for developers to understand and build upon core RAG concepts while maintaining clean code organization and production-ready practices.
 
 ## Overview
 
