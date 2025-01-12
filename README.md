@@ -12,11 +12,11 @@ Practical patterns for production deployment using Streamlit
 
 While focused in scope, this codebase reflects patterns that can be expanded into more sophisticated applications, such as:
 
-Enterprise knowledge base systems
-Document-grounded chatbots and virtual assistants
-Automated document analysis and question-answering systems
-Context-aware content generation platforms
-Custom search engines with semantic understanding
+- Enterprise knowledge base systems
+- Document-grounded chatbots and virtual assistants
+- Automated document analysis and question-answering systems
+- Context-aware content generation platforms
+- Custom search engines with semantic understanding
 
 The implementation showcases the integration of several key technologies:
 
