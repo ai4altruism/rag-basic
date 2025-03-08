@@ -123,4 +123,17 @@ Feel free to open issues or submit pull requests with improvements.
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Copyright (C) 2025.
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Copyright (c) 2025 AI for Altruism Inc.
+When using or distributing this software, please attribute as follows:
+
+```
+Basic RAG Pipeline
+Copyright (c) 2025 AI for Altruism Inc
+License: GNU GPL v3.0
+```
+
+## Contact
+
+For questions, suggestions, or collaboration opportunities, please contact:
+
+Email: team@ai4altruism.org
